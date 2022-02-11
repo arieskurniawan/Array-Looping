@@ -4,3 +4,10 @@ $b = 18;
 //menjumlahkan variabel a dengan variabel b
 echo $a + $b;
 ?>
+
+<?php 
+$a = 4;
+$b = 2;
+//perkalian variabel a dengan variabel b
+echo $a * $b;
+?>
