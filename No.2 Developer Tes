@@ -1,0 +1,5 @@
+SELECT mhs_nama
+FROM tb_mahasiswa
+WHERE mhs_id UNION FROM tb_mahasiswa_nilai
+WHERE nilai >= 80 UNION FROM tb_matakuliah
+WHERE mk_kode ='MK303'
