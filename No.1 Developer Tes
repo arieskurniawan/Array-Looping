@@ -1,0 +1,14 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+<?php>
+$aplikasi = array("gtAkademik", "gtFinansi", "gtPerizinan", "eCampuz", "eOviz");
+$hitung = count($aplikasi);
+for($x = 1; $x < $hitung; $x++) {
+    echo $x.'. '.$aplikasi[$x];
+    echo "<br>";
+
+</body>
+</html>
