@@ -1,13 +1,11 @@
 <?php 
-$a = 4;
-$b = 18;
-//menjumlahkan variabel a dengan variabel b
+$a = 8;
+$b = 2;
 echo $a + $b;
 ?>
 
 <?php 
-$a = 4;
+$a = 2;
 $b = 2;
-//perkalian variabel a dengan variabel b
 echo $a * $b;
 ?>
